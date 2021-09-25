@@ -1,0 +1,48 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    background: rgb(200, 238, 143);
+}
+
+.container {
+    width: 80vw;
+    height: 220px;
+    border: solid 1px black;
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 60px;
+}
+
+button {
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 30px;
+    height: 30px;
+    background: green;
+    color: white;
+}
+
+.mainDiv div {
+    width: 30px;
+    height: 30px;
+    border: solid 1px blue;
+    margin-top: 20px;
+} 
+
+#secondDiv {
+    background: lightblue;
+}
+
+p {
+    margin-top: 30px;
+    text-align: center;
+    min-height: 30px;
+    bordeR: solid 1px blue;
+}
